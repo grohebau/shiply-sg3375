@@ -1,0 +1,47 @@
+{
+  "G29886": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Jens Plückhahn, Pestalozzistraße 12, 27474 Cuxhaven, Deutschland",
+    "receiver": "Hein Hottentot, Breezandstraat 33, 2583 NW Den Haag, Niederlande",
+    "price": "4.950 €",
+    "description": "Hersteller: KTM<br>Typ: 990 Adventure<br>Fahrgestelnummer: VBKV49404HM967290<br>Erstzulassung: 17/05/2008<br>KM laut Vorbesitzer: 63555 km<br>Leistung: 72 kW (98 PS)<br>Hubraum: 990 cm³<br>Farbe: Blau<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Hein Hottentot<br>Breezandstraat 33<br>2583 NW Den Haag<br>Niederlande<br>Telefon: +31 631 000744",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "25-08-2025",
+    "deliveryDate": "28-08-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
